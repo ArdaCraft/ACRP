@@ -1,0 +1,158 @@
+{
+  "variants": {
+    "height=1,random=0": [
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_a",
+        "weight": 3
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_a_split",
+        "weight": 2
+      }
+    ],
+    "height=1,random=1": [
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_b",
+        "weight": 3
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_b_split",
+        "weight": 2
+      }
+    ],
+    "height=1,random=2": [
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_c",
+        "weight": 3
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_c_split",
+        "weight": 2
+      }
+    ],
+    "height=1,random=3": [
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_a"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_b"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_c"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_a"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_b"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_c"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_a"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_b"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_c"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_a_split"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_b_split"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_c_split"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_a_split"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_b_split"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_c_split"
+      }
+    ],
+    "height=2,random=0": [
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_a_2tall",
+        "weight": 3
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_a_2tall_split",
+        "weight": 2
+      }
+    ],
+    "height=2,random=1": [
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_b_2tall",
+        "weight": 3
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_b_2tall_split",
+        "weight": 2
+      }
+    ],
+    "height=2,random=2": [
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_c_2tall",
+        "weight": 3
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_c_2tall_split",
+        "weight": 2
+      }
+    ],
+    "height=2,random=3": [
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_a_2tall"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_b_2tall"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_c_2tall"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_a_2tall"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_b_2tall"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_c_2tall"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_a_2tall"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_b_2tall"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_c_2tall"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_a_2tall_split"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_b_2tall_split"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_c_2tall_split"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_a_2tall_split"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_b_2tall_split"
+      },
+      {
+        "model": "conquest:block/meadow_fescue_plant_dense_model_8_c_2tall_split"
+      }
+    ]
+  }
+}

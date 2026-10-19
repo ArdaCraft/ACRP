@@ -1,7 +1,6 @@
 {
     "targets": [
-        "conquest:green_meadow_fescue",
-        "conquest:greater_wood_rush"
+        "conquest:green_meadow_fescue"
     ],
     "colormap": {
         "x_axis": "biome_id",

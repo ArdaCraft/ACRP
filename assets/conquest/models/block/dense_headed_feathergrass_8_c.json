@@ -1,0 +1,8 @@
+{
+  "parent": "conquest:block/parent_plant_dense_64x_8_c_split",
+  "textures": {
+    "stem": "conquest:block/9_organic/3_plants/dense_headed_feathergrass_stem",
+    "head": "conquest:block/9_organic/3_plants/dense_headed_feathergrass_head",
+    "particle": "conquest:block/9_organic/3_plants/dense_headed_feathergrass"
+  }
+}
