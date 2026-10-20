@@ -1,0 +1,9 @@
+{
+  "parent": "conquest:block/cherry_tree_leaves_split_parent",
+  "textures": {
+    "leaves_1": "conquest:block/9_organic/2_leaves/cherry_tree_leaves_1",
+    "leaves_2": "conquest:block/9_organic/2_leaves/cherry_tree_leaves_2",
+    "branches_1": "conquest:block/9_organic/2_leaves/cherry_tree_branches_1",
+    "branches_2": "conquest:block/9_organic/2_leaves/cherry_tree_branches_2"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "conquest:block/ash_tree_leaves_split_parent",
+  "textures": {
+    "leaves_1": "conquest:block/9_organic/2_leaves/ash_tree_leaves_1",
+    "twigs": "conquest:block/9_organic/2_leaves/ash_tree_leaves_1_twigs"
+  }
+}

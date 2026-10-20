@@ -2,9 +2,6 @@
     "targets": [
         "conquest:grass",
         "minecraft:grass",
-        "minecraft:tall_grass",
-        "conquest:tall_grass",
-        "conquest:tall_grass_utility",
         "minecraft:grass_block",
         "conquest:grass_block_corner_slab",
         "conquest:grass_block_eighth_slab",

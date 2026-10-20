@@ -32,49 +32,20 @@
     ],
     "height=1,random=3": [
       {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_a"
+        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_b",
+        "weight": 4
       },
       {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_b"
+        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_b_split",
+        "weight": 1
       },
       {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_c"
+        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_c",
+        "weight": 4
       },
       {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_a"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_b"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_c"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_a"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_b"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_c"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_a"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_b"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_c"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_a_split"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_b_split"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_c_split"
+        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_c_split",
+        "weight": 1
       }
     ],
     "height=2,random=0": [
@@ -109,49 +80,20 @@
     ],
     "height=2,random=3": [
       {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_a_2tall"
+        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_b_2tall",
+        "weight": 4
       },
       {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_b_2tall"
+        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_b_2tall_split",
+        "weight": 1
       },
       {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_c_2tall"
+        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_c_2tall",
+        "weight": 4
       },
       {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_a_2tall"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_b_2tall"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_c_2tall"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_a_2tall"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_b_2tall"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_c_2tall"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_a_2tall"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_b_2tall"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_c_2tall"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_a_2tall_split"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_b_2tall_split"
-      },
-      {
-        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_c_2tall_split"
+        "model": "conquest:block/green_meadow_fescue_plant_dense_model_8_c_2tall_split",
+        "weight": 1
       }
     ]
   }

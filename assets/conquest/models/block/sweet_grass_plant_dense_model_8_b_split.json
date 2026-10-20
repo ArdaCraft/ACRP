@@ -1,0 +1,8 @@
+{
+  "parent": "conquest:block/sweet_grass_parent_8_b_drop1p0",
+  "textures": {
+    "texture": "conquest:block/9_organic/3_plants/sweet_grass_split",
+    "texture_head": "conquest:block/9_organic/3_plants/sweet_grass_head",
+    "particle": "conquest:block/9_organic/3_plants/sweet_grass"
+  }
+}

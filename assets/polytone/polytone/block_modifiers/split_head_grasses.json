@@ -1,7 +1,5 @@
 {
     "targets": [
-        "conquest:dense_headed_feathergrass",
-        "conquest:sparse_headed_feathergrass",
         "conquest:woodland_sedge"
     ],
     "colormap": {

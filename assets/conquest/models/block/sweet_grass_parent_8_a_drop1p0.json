@@ -1,0 +1,255 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "texture": "block/acacia_planks",
+    "particle": "#texture"
+  },
+  "elements": [
+    {
+      "__comment": "Cube1",
+      "from": [
+        1.5,
+        -1.0,
+        7.999
+      ],
+      "to": [
+        17.5,
+        15.0,
+        8
+      ],
+      "shade": false,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "__comment": "Cube1",
+      "from": [
+        12,
+        -1.0,
+        1
+      ],
+      "to": [
+        12.001,
+        15.0,
+        17
+      ],
+      "shade": false,
+      "rotation": {
+        "origin": [
+          12,
+          -1.0,
+          1
+        ],
+        "axis": "y",
+        "angle": -22.5
+      },
+      "faces": {
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "__comment": "Cube1",
+      "from": [
+        3.5,
+        -1.0,
+        2.5
+      ],
+      "to": [
+        3.501,
+        15.0,
+        18.5
+      ],
+      "shade": false,
+      "rotation": {
+        "origin": [
+          3.5,
+          -1.0,
+          2.5
+        ],
+        "axis": "y",
+        "angle": 45
+      },
+      "faces": {
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "__comment": "Cube1",
+      "from": [
+        1.5,
+        -1.0,
+        7.999
+      ],
+      "to": [
+        17.5,
+        15.0,
+        8
+      ],
+      "shade": false,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture_head"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture_head"
+        }
+      }
+    },
+    {
+      "__comment": "Cube1",
+      "from": [
+        12,
+        -1.0,
+        1
+      ],
+      "to": [
+        12.001,
+        15.0,
+        17
+      ],
+      "shade": false,
+      "rotation": {
+        "origin": [
+          12,
+          -1.0,
+          1
+        ],
+        "axis": "y",
+        "angle": -22.5
+      },
+      "faces": {
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture_head"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture_head"
+        }
+      }
+    },
+    {
+      "__comment": "Cube1",
+      "from": [
+        3.5,
+        -1.0,
+        2.5
+      ],
+      "to": [
+        3.501,
+        15.0,
+        18.5
+      ],
+      "shade": false,
+      "rotation": {
+        "origin": [
+          3.5,
+          -1.0,
+          2.5
+        ],
+        "axis": "y",
+        "angle": 45
+      },
+      "faces": {
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture_head"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture_head"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/plant_dense_model_8_a_2tall",
+  "textures": {
+    "texture": "conquest:block/9_organic/3_plants/angelica_bottom_split",
+    "top": "conquest:block/9_organic/3_plants/angelica_top_split",
+    "particle": "conquest:block/9_organic/3_plants/angelica_bottom"
+  }
+}
