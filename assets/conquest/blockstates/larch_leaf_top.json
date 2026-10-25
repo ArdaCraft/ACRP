@@ -1,0 +1,45 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "conquest:block/larch_leaf_top"
+   },
+   {
+    "model": "conquest:block/larch_leaf_top",
+    "yoffset": -2
+   },
+   {
+    "model": "conquest:block/larch_leaf_top",
+    "yoffset": -4
+   },
+   {
+    "model": "conquest:block/larch_leaf_top",
+    "y": 180
+   },
+   {
+    "model": "conquest:block/larch_leaf_top",
+    "y": 180,
+    "yoffset": -2
+   },
+   {
+    "model": "conquest:block/larch_leaf_top",
+    "y": 180,
+    "yoffset": -4
+   },
+   {
+    "model": "conquest:block/larch_leaf_top",
+    "y": 90
+   },
+   {
+    "model": "conquest:block/larch_leaf_top",
+    "y": 90,
+    "yoffset": -2
+   },
+   {
+    "model": "conquest:block/larch_leaf_top",
+    "y": 90,
+    "yoffset": -4
+   }
+  ]
+ }
+}

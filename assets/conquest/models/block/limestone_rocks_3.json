@@ -1,0 +1,6 @@
+{
+	"parent":"conquest:block/templates/parent_rocks_3",
+	"textures":{
+		"texture":"block/stone"
+	}
+}

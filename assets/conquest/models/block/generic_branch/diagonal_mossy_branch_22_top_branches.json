@@ -1,0 +1,583 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"4": "conquest:block/9_organic/3_plants/mossy_branch_moss",
+		"particle": "conquest:block/9_organic/3_plants/mossy_branch_moss"
+	},
+	"elements": [
+		{
+			"name": "halfbeam",
+			"from": [
+				6.06587,
+				6.18187,
+				0
+			],
+			"to": [
+				10.06587,
+				10.01,
+				2.89844
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					1.52488,
+					7.994,
+					9
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						12,
+						8.5,
+						16,
+						12.5
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4,
+						2,
+						8,
+						4.89844
+					],
+					"rotation": 90,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						8,
+						5,
+						12,
+						9
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4,
+						2.5,
+						8,
+						5.39844
+					],
+					"rotation": 90,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						12,
+						0,
+						16,
+						2.89844
+					],
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						12,
+						0,
+						16,
+						2.89844
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "halfbeam",
+			"from": [
+				6.00337,
+				11.20922,
+				1
+			],
+			"to": [
+				10.00337,
+				15.20922,
+				17
+			],
+			"rotation": {
+				"angle": -22.5,
+				"axis": "x",
+				"origin": [
+					1.46238,
+					13.19322,
+					14.5
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						12,
+						8.5,
+						16,
+						12.5
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4,
+						2,
+						8,
+						15
+					],
+					"rotation": 90,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						8,
+						5,
+						12,
+						9
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4,
+						2.5,
+						8,
+						15.5
+					],
+					"rotation": 90,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						12,
+						0,
+						16,
+						13
+					],
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						12,
+						0,
+						16,
+						13
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "halfbeam",
+			"from": [
+				-0.481,
+				1.294,
+				5.07775
+			],
+			"to": [
+				1.019,
+				14.494,
+				6.57775
+			],
+			"rotation": {
+				"angle": 45,
+				"axis": "z",
+				"origin": [
+					-5.022,
+					14.494,
+					7.09375
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						12,
+						0,
+						13.5,
+						13.2
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4,
+						2,
+						5.5,
+						15.2
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						12,
+						0,
+						13.5,
+						13.2
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4,
+						2.5,
+						5.5,
+						15.7
+					],
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						8,
+						5,
+						9.5,
+						6.5
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						12,
+						8.5,
+						13.5,
+						10
+					],
+					"texture": "#4",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "halfbeam",
+			"from": [
+				8.981,
+				8.794,
+				5.23009
+			],
+			"to": [
+				9.981,
+				15.494,
+				6.23009
+			],
+			"rotation": {
+				"angle": -45,
+				"axis": "z",
+				"origin": [
+					14.522,
+					21.994,
+					7.24609
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						13,
+						0,
+						12,
+						6.7
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						5,
+						2.5,
+						4,
+						9.2
+					],
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						13,
+						0,
+						12,
+						6.7
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						5,
+						2,
+						4,
+						8.7
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						9,
+						5,
+						8,
+						6
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						13,
+						8.5,
+						12,
+						9.5
+					],
+					"texture": "#4",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "halfbeam",
+			"from": [
+				13.52006,
+				11.294,
+				12.94884
+			],
+			"to": [
+				14.52006,
+				17.994,
+				13.94884
+			],
+			"rotation": {
+				"angle": -22.5,
+				"axis": "z",
+				"origin": [
+					19.06106,
+					24.494,
+					14.96484
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						13.0,
+						0,
+						12,
+						6.7
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						5,
+						2.5,
+						4,
+						9.2
+					],
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						13,
+						0,
+						12,
+						6.7
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						5,
+						2,
+						4,
+						8.7
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						9,
+						5,
+						8,
+						6
+					],
+					"rotation": 180,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						13,
+						8.5,
+						12,
+						9.5
+					],
+					"texture": "#4",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "halfbeam",
+			"from": [
+				-8.56497,
+				23.10141,
+				5.34337
+			],
+			"to": [
+				-1.86497,
+				24.10141,
+				6.34337
+			],
+			"rotation": {
+				"angle": -22.5,
+				"axis": "z",
+				"origin": [
+					-15.06497,
+					18.56041,
+					7.35937
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						12,
+						0,
+						13,
+						6.7
+					],
+					"rotation": 270,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						12,
+						8.5,
+						13,
+						9.5
+					],
+					"rotation": 270,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						12,
+						0,
+						13,
+						6.7
+					],
+					"rotation": 90,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						8,
+						5,
+						9,
+						6
+					],
+					"rotation": 90,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						4,
+						2,
+						5,
+						8.7
+					],
+					"rotation": 90,
+					"texture": "#4",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						4,
+						2.5,
+						5,
+						9.2
+					],
+					"rotation": 270,
+					"texture": "#4",
+					"tintindex": 0
+				}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "beam_diagonal_nsse4",
+			"origin": [
+				-8.5,
+				14,
+				26
+			],
+			"color": 0,
+			"children": [
+				0,
+				1
+			]
+		},
+		{
+			"name": "diagonal_oak_branch_67_branches",
+			"origin": [
+				8,
+				8,
+				8
+			],
+			"color": 0,
+			"children": [
+				{
+					"name": "beam_diagonal_nsse",
+					"origin": [
+						8,
+						8,
+						8
+					],
+					"color": 0,
+					"children": [
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			]
+		}
+	]
+}

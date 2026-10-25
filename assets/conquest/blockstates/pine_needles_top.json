@@ -1,0 +1,502 @@
+{
+ "variants": {
+  "layers=8,toggle=1": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip"
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 90,
+    "yoffset": -2
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 180,
+    "yoffset": -4
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 270
+   }
+  ],
+  "layers=8,toggle=2": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall"
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 90,
+    "yoffset": -2
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 180,
+    "yoffset": -4
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 270
+   }
+  ],
+  "layers=8,toggle=3": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat"
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 90,
+    "yoffset": -2
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 180,
+    "yoffset": -4
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 270
+   }
+  ],
+  "layers=7,toggle=1": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "yoffset": -2
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 90,
+    "yoffset": -4
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 180,
+    "yoffset": -6
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 270,
+    "yoffset": -2
+   }
+  ],
+  "layers=7,toggle=2": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "yoffset": -2
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 90,
+    "yoffset": -4
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 180,
+    "yoffset": -6
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 270,
+    "yoffset": -2
+   }
+  ],
+  "layers=7,toggle=3": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "yoffset": -2
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 90,
+    "yoffset": -4
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 180,
+    "yoffset": -6
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 270,
+    "yoffset": -2
+   }
+  ],
+  "layers=6,toggle=1": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "yoffset": -4
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 90,
+    "yoffset": -6
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 180,
+    "yoffset": -8
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 270,
+    "yoffset": -4
+   }
+  ],
+  "layers=6,toggle=2": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "yoffset": -4
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 90,
+    "yoffset": -6
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 180,
+    "yoffset": -8
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 270,
+    "yoffset": -4
+   }
+  ],
+  "layers=6,toggle=3": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "yoffset": -4
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 90,
+    "yoffset": -6
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 180,
+    "yoffset": -8
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 270,
+    "yoffset": -4
+   }
+  ],
+  "layers=5,toggle=1": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "yoffset": -6
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 90,
+    "yoffset": -8
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 180,
+    "yoffset": -10
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 270,
+    "yoffset": -6
+   }
+  ],
+  "layers=5,toggle=2": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "yoffset": -6
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 90,
+    "yoffset": -8
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 180,
+    "yoffset": -10
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 270,
+    "yoffset": -6
+   }
+  ],
+  "layers=5,toggle=3": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "yoffset": -6
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 90,
+    "yoffset": -8
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 180,
+    "yoffset": -10
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 270,
+    "yoffset": -6
+   }
+  ],
+  "layers=4,toggle=1": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "yoffset": -8
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 90,
+    "yoffset": -10
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 180,
+    "yoffset": -12
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 270,
+    "yoffset": -8
+   }
+  ],
+  "layers=4,toggle=2": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "yoffset": -8
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 90,
+    "yoffset": -10
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 180,
+    "yoffset": -12
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 270,
+    "yoffset": -8
+   }
+  ],
+  "layers=4,toggle=3": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "yoffset": -8
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 90,
+    "yoffset": -10
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 180,
+    "yoffset": -12
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 270,
+    "yoffset": -8
+   }
+  ],
+  "layers=3,toggle=1": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "yoffset": -10
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 90,
+    "yoffset": -12
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 180,
+    "yoffset": -14
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 270,
+    "yoffset": -10
+   }
+  ],
+  "layers=3,toggle=2": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "yoffset": -10
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 90,
+    "yoffset": -12
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 180,
+    "yoffset": -14
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 270,
+    "yoffset": -10
+   }
+  ],
+  "layers=3,toggle=3": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "yoffset": -10
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 90,
+    "yoffset": -12
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 180,
+    "yoffset": -14
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 270,
+    "yoffset": -10
+   }
+  ],
+  "layers=2,toggle=1": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "yoffset": -12
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 90,
+    "yoffset": -14
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 180,
+    "yoffset": -16
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 270,
+    "yoffset": -12
+   }
+  ],
+  "layers=2,toggle=2": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "yoffset": -12
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 90,
+    "yoffset": -14
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 180,
+    "yoffset": -16
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 270,
+    "yoffset": -12
+   }
+  ],
+  "layers=2,toggle=3": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "yoffset": -12
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 90,
+    "yoffset": -14
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 180,
+    "yoffset": -16
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 270,
+    "yoffset": -12
+   }
+  ],
+  "layers=1,toggle=1": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "yoffset": -14
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 90,
+    "yoffset": -16
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 180,
+    "yoffset": -18
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip",
+    "y": 270,
+    "yoffset": -14
+   }
+  ],
+  "layers=1,toggle=2": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "yoffset": -14
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 90,
+    "yoffset": -16
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 180,
+    "yoffset": -18
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_tall",
+    "y": 270,
+    "yoffset": -14
+   }
+  ],
+  "layers=1,toggle=3": [
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "yoffset": -14
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 90,
+    "yoffset": -16
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 180,
+    "yoffset": -18
+   },
+   {
+    "model": "conquest:block/pine/pine_needles_tip_flat",
+    "y": 270,
+    "yoffset": -14
+   }
+  ]
+ }
+}

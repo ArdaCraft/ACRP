@@ -1,0 +1,24 @@
+# Made in Blockbench 4.12.4
+newmtl m_f5a49c6e-7223-ef8c-b42f-a14908b7d449
+Ns 0.000000
+Ka 0.0 0.0 0.0
+Kd 0.800000 0.800000 0.800000
+Ks 1.0 1.0 1.0
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 0
+map_Kd #branch
+forge_TintIndex -1
+
+newmtl m_f5a49c6e-7223-ef8c-b42f-a14908b7d449_moss
+Ns 0.000000
+Ka 0.0 0.0 0.0
+Kd 0.800000 0.800000 0.800000
+Ks 1.0 1.0 1.0
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 0
+map_Kd #branch_moss
+forge_TintIndex 0

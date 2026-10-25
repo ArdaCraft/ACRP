@@ -77,3 +77,32 @@ Issues currently include inaccurate items, inaccurate block sounds, and inaccura
 
 * Cherry leaves and branches, ash twigs, tall grass value range tweaks
 
+#### Mossy logs, mossy branches, leaves and plants
+
+**Mossy logs / branches**
+
+* Biome-coloured moss (moss is now its own tinted layer over plain bark), all 23 mossy woods (all shapes except the legacy log branch / large branch / small branch pieces): acacia, apple, ash, aspen, beech, birch, dark oak, dark spruce, goat sallow, horse chestnut, larch, light pine, light transition pine, mallorn, Norway spruce, oak, olive, orange pine, palm, pine, rowan, transition pine, willow
+* Mossy log tops: moss tinted to match, random rotation; goat sallow / olive use ACRP end art
+* Mossy branches: biome-coloured moss
+* Norway spruce dead branches: biome-coloured moss
+* Overgrown mossy thatch (dark brown, dark gray, gray): less moss
+
+**Fixes**
+
+* Mossy branches: wrong twig textures, missing-texture faces, missing break particles
+* UV fixes: branch / log shape templates (mossy and plain)
+* UV fixes: limestone, mudstone, obsidian, red sandstone, rough marble, sandstone, smooth tuff rocks
+
+**Recoloured**
+
+* Leaves: apple (pale apples now light red), pear, plum, horse chestnut, grape vine leaves, small grape vine, black poplar (all pieces), poplar, pine / red pine / dead pine (needles + all pieces)
+* Plants: meadow fescue, green meadow fescue, wavy hair grass, rushes, thick rushes, cattails, cattail reeds, grape bush, hanging herbs
+* Ground: shredded leaves
+* Colormaps: grass, green meadow fescue, Kentucky bluegrass, small fescue / timothy grass, bottle sedge, lush grass
+
+**Other**
+
+* Spruce, light spruce, dead spruce, larch, orange larch, yellow larch tops: random rotations and random height drop
+* Pine, dead pine needle tops: random height drop
+* Hanging herbs: 4 arrangements (was 2)
+* Moss overlay: new random tiles

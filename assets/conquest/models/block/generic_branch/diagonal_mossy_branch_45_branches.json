@@ -1,0 +1,480 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"particle": "conquest:block/9_organic/3_plants/mossy_branch_moss",
+		"2": "conquest:block/9_organic/3_plants/mossy_branch_moss"
+	},
+	"elements": [
+		{
+			"name": "halfbeam",
+			"from": [
+				6.04,
+				5.99,
+				-5.5
+			],
+			"to": [
+				10.04,
+				9.99,
+				8
+			],
+			"rotation": {
+				"angle": 45,
+				"axis": "x",
+				"origin": [
+					1.478,
+					7.994,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						16,
+						11.5,
+						12,
+						15.5
+					],
+					"rotation": 180,
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4,
+						12.5,
+						8,
+						0
+					],
+					"rotation": 90,
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						12,
+						8.5,
+						8,
+						12.5
+					],
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4,
+						12.5,
+						8,
+						0
+					],
+					"rotation": 90,
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						8,
+						12.5,
+						12,
+						0
+					],
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						12,
+						12.5,
+						8,
+						0
+					],
+					"texture": "#2",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "halfbeam",
+			"from": [
+				6.019,
+				6.01,
+				8
+			],
+			"to": [
+				10.019,
+				10.01,
+				21.2
+			],
+			"rotation": {
+				"angle": 45,
+				"axis": "x",
+				"origin": [
+					1.478,
+					7.994,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						12,
+						5,
+						8,
+						9
+					],
+					"rotation": 180,
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4,
+						15,
+						8,
+						2
+					],
+					"rotation": 90,
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						16,
+						8.5,
+						12,
+						12.5
+					],
+					"rotation": 180,
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4,
+						15.5,
+						8,
+						2.5
+					],
+					"rotation": 90,
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						12,
+						13,
+						16,
+						0
+					],
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						12,
+						13,
+						16,
+						0
+					],
+					"rotation": 180,
+					"texture": "#2",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"from": [
+				0.0545,
+				15.28972,
+				-0.98881
+			],
+			"to": [
+				1.0545,
+				27.28972,
+				0.01119
+			],
+			"rotation": {
+				"x": -19.32397,
+				"y": -38.62085,
+				"z": 29.32794,
+				"origin": [
+					2.5762,
+					16.3289,
+					-0.24096
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						6,
+						0,
+						5,
+						12
+					],
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						8,
+						0,
+						7,
+						12
+					],
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						2,
+						0,
+						1,
+						12
+					],
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4,
+						0,
+						3,
+						12
+					],
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						5,
+						1,
+						6,
+						0
+					],
+					"rotation": 90,
+					"texture": "#2",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"from": [
+				1.51358,
+				13.25063,
+				-0.99311
+			],
+			"to": [
+				13.51358,
+				15.25063,
+				1.00689
+			],
+			"rotation": {
+				"x": 19.32397,
+				"y": -38.62085,
+				"z": -29.32794,
+				"origin": [
+					2.5762,
+					16.3289,
+					-0.24096
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						5,
+						12,
+						7,
+						0
+					],
+					"rotation": 270,
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						1,
+						12,
+						3,
+						0
+					],
+					"rotation": 90,
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						7,
+						0,
+						5,
+						2
+					],
+					"rotation": 180,
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						7,
+						12,
+						9,
+						0
+					],
+					"rotation": 90,
+					"texture": "#2",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						3,
+						12,
+						5,
+						0
+					],
+					"rotation": 90,
+					"texture": "#2",
+					"tintindex": 0
+				}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [
+				70,
+				20,
+				0
+			],
+			"translation": [
+				-2,
+				3.5,
+				1.5
+			],
+			"scale": [
+				0.3,
+				0.3,
+				0.3
+			]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [
+				70,
+				20,
+				0
+			],
+			"translation": [
+				-2,
+				3.5,
+				1.5
+			],
+			"scale": [
+				0.3,
+				0.3,
+				0.3
+			]
+		},
+		"firstperson_righthand": {
+			"rotation": [
+				0,
+				10,
+				0
+			],
+			"translation": [
+				0,
+				5.25,
+				0
+			],
+			"scale": [
+				0.3,
+				0.3,
+				0.3
+			]
+		},
+		"firstperson_lefthand": {
+			"rotation": [
+				0,
+				10,
+				0
+			],
+			"translation": [
+				0,
+				5.25,
+				0
+			],
+			"scale": [
+				0.3,
+				0.3,
+				0.3
+			]
+		},
+		"ground": {
+			"translation": [
+				0,
+				3.5,
+				0
+			],
+			"scale": [
+				0.3,
+				0.3,
+				0.3
+			]
+		},
+		"gui": {
+			"rotation": [
+				30,
+				135,
+				0
+			],
+			"translation": [
+				0.55,
+				0.05,
+				0
+			],
+			"scale": [
+				0.62,
+				0.62,
+				0.62
+			]
+		},
+		"fixed": {
+			"translation": [
+				-4,
+				38,
+				-46
+			],
+			"scale": [
+				2,
+				2,
+				2
+			]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [
+				8,
+				-6,
+				24
+			],
+			"color": 0,
+			"children": [
+				0,
+				1,
+				{
+					"name": "group",
+					"origin": [
+						-4.375,
+						5.95,
+						11.49219
+					],
+					"color": 0,
+					"children": [
+						2,
+						3
+					]
+				}
+			]
+		}
+	]
+}

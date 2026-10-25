@@ -1,0 +1,6 @@
+{
+	"parent": "conquest:block/templates/parent_rocks_3_none",
+	"textures": {
+		"texture": "conquest:block/8_topography/1_stone/faded_dark_red_sandstone"
+	}
+}

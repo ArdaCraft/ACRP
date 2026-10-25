@@ -1,0 +1,189 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Hippokleides",
+	"parent": "block/block",
+	"textures": {
+		"1": "conquest:block/9_organic/3_plants/mossy_branch_moss",
+		"particle": "conquest:block/9_organic/3_plants/mossy_branch_moss"
+	},
+	"elements": [
+		{
+			"name": "halfbeam",
+			"from": [
+				7.38228,
+				5.01,
+				13
+			],
+			"to": [
+				13.38228,
+				11.01,
+				28.7
+			],
+			"rotation": {
+				"x": 35.25,
+				"y": 45,
+				"z": 0,
+				"origin": [
+					3.84128,
+					7.994,
+					13
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						14,
+						5,
+						8,
+						11
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4,
+						15.7,
+						10,
+						0
+					],
+					"rotation": 90,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						15,
+						8,
+						9,
+						14
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4,
+						15.7,
+						10,
+						0
+					],
+					"rotation": 90,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						9,
+						16,
+						15,
+						0
+					],
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						9,
+						16,
+						15,
+						0
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "halfbeam",
+			"from": [
+				7.40328,
+				4.99,
+				-3
+			],
+			"to": [
+				13.40328,
+				10.99,
+				13
+			],
+			"rotation": {
+				"x": 35.25,
+				"y": 45,
+				"z": 0,
+				"origin": [
+					3.84128,
+					7.994,
+					13
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						16,
+						10,
+						10,
+						16
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4,
+						16,
+						10,
+						0
+					],
+					"rotation": 90,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						14,
+						8.5,
+						8,
+						14.5
+					],
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4,
+						16,
+						10,
+						0
+					],
+					"rotation": 90,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						8,
+						16,
+						14,
+						0
+					],
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						14,
+						16,
+						8,
+						0
+					],
+					"texture": "#1",
+					"tintindex": 0
+				}
+			}
+		}
+	]
+}

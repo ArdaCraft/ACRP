@@ -1,0 +1,9 @@
+{
+	"parent": "conquest:block/templates/mossy/parent_log_horizontal",
+	"textures": {
+		"end": "conquest:block/9_organic/1_wood/mossy_olive_log_top",
+		"side": "conquest:block/9_organic/1_wood/olive_log",
+		"moss_side": "conquest:block/9_organic/1_wood/mossy_olive_log_moss",
+		"moss_end": "conquest:block/9_organic/1_wood/mossy_olive_log_top_moss"
+	}
+}

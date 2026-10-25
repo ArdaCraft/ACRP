@@ -1,0 +1,7 @@
+{
+	"parent": "conquest:block/templates/mossy/parent_stump_down_2",
+	"textures": {
+		"side": "conquest:block/9_organic/1_wood/apple_log",
+		"moss_side": "conquest:block/9_organic/1_wood/mossy_apple_log_moss"
+	}
+}

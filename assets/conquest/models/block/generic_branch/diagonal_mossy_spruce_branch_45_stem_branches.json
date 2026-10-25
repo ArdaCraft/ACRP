@@ -1,0 +1,9 @@
+{
+	"parent": "conquest:block/generic_branch/template/tinted_overlay/diagonal_branch_45_stem_branches",
+	"textures": {
+		"overlay": "conquest:block/9_organic/3_plants/moss_overlay_random",
+		"log": "block/spruce_log",
+		"branch1": "conquest:block/9_organic/1_wood/spruce_log_branches_1",
+		"branch3": "conquest:block/9_organic/1_wood/spruce_log_branch_tip"
+	}
+}

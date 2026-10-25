@@ -1,0 +1,7 @@
+{
+	"parent": "conquest:block/templates/mossy/parent_vertical_quarter_down_6",
+	"textures": {
+		"side": "conquest:block/9_organic/1_wood/mossy_norway_spruce_log_bark",
+		"moss_side": "conquest:block/9_organic/1_wood/mossy_norway_spruce_log_moss"
+	}
+}

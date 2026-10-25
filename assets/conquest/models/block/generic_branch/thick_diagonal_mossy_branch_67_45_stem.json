@@ -1,0 +1,456 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Hippokleides",
+	"textures": {
+		"1": "conquest:block/9_organic/3_plants/mossy_branch_moss",
+		"particle": "conquest:block/9_organic/3_plants/mossy_branch_moss"
+	},
+	"elements": [
+		{
+			"name": "halfbeam",
+			"from": [
+				9.99552,
+				12.72646,
+				12.66102
+			],
+			"to": [
+				15.99552,
+				17.72646,
+				18.66102
+			],
+			"rotation": {
+				"x": 32.5,
+				"y": 45,
+				"z": 0,
+				"origin": [
+					6.43352,
+					24.22046,
+					15.65702
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						8,
+						0,
+						14.0,
+						5.0
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4,
+						0,
+						10.0,
+						5.0
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						14.0,
+						0,
+						8,
+						5.0
+					],
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4,
+						0,
+						10.0,
+						5.0
+					],
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						10.0,
+						10.0,
+						16.0,
+						16.0
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						8,
+						8.5,
+						14.0,
+						14.5
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "halfbeam",
+			"from": [
+				7.0361,
+				4.03719,
+				-8.03465
+			],
+			"to": [
+				12.98141,
+				9.68953,
+				-0.4159
+			],
+			"rotation": {
+				"x": -22.5,
+				"y": 45,
+				"z": 0,
+				"origin": [
+					3.44226,
+					9.88146,
+					12.66576
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						10.05469,
+						8.5,
+						16.0,
+						14.15234
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						5,
+						2,
+						10.65234,
+						9.61875
+					],
+					"rotation": 90,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						8,
+						5,
+						13.94531,
+						10.65234
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4,
+						2.5,
+						9.65234,
+						10.11875
+					],
+					"rotation": 90,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						10.05469,
+						0,
+						16.0,
+						7.61875
+					],
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						10.05469,
+						0,
+						16.0,
+						7.61875
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "halfbeam",
+			"from": [
+				7.60213,
+				7.64068,
+				-1.9271
+			],
+			"to": [
+				13.54744,
+				13.29302,
+				2.29165
+			],
+			"rotation": {
+				"x": -35,
+				"y": 45,
+				"z": 0,
+				"origin": [
+					4.02597,
+					10.62468,
+					13.24947
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						10.05469,
+						8.5,
+						16.0,
+						14.15234
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4,
+						2,
+						8.21875,
+						7.65234
+					],
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						8,
+						5,
+						13.94531,
+						10.65234
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4,
+						2.5,
+						8.21875,
+						8.15234
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						10.05469,
+						0,
+						16.0,
+						4.21875
+					],
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						10.05469,
+						0,
+						16.0,
+						4.21875
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "halfbeam",
+			"from": [
+				15.83422,
+				24.17997,
+				5.91672
+			],
+			"to": [
+				21.77172,
+				29.78231,
+				10.16046
+			],
+			"rotation": {
+				"x": -35,
+				"y": 45,
+				"z": 0,
+				"origin": [
+					12.26978,
+					27.16397,
+					21.49328
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						10.0625,
+						8.5,
+						16.0,
+						14.10234
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4,
+						2,
+						8.24374,
+						7.60234
+					],
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						8,
+						5,
+						13.9375,
+						10.60234
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4,
+						2.5,
+						8.24374,
+						8.10234
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						10.0625,
+						0,
+						16.0,
+						4.24374
+					],
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						10.0625,
+						0,
+						16.0,
+						4.24374
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "halfbeam",
+			"from": [
+				5.64409,
+				1.43833,
+				8.31059
+			],
+			"to": [
+				11.64409,
+				14.63833,
+				14.31059
+			],
+			"rotation": {
+				"x": 32.5,
+				"y": 45,
+				"z": 0,
+				"origin": [
+					2.10309,
+					14.63833,
+					11.32659
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						10.0,
+						0,
+						16.0,
+						13.2
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4,
+						2,
+						10.0,
+						15.2
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						10.0,
+						0,
+						16.0,
+						13.2
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4,
+						2.5,
+						10.0,
+						15.7
+					],
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						8,
+						5,
+						14.0,
+						11.0
+					],
+					"rotation": 180,
+					"texture": "#1",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						10.0,
+						8.5,
+						16.0,
+						14.5
+					],
+					"texture": "#1",
+					"tintindex": 0
+				}
+			}
+		}
+	]
+}

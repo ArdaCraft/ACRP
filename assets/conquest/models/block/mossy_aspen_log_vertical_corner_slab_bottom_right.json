@@ -1,0 +1,7 @@
+{
+	"parent": "conquest:block/templates/mossy/parent_vertical_corner_slab_bottom_right",
+	"textures": {
+		"side": "conquest:block/9_organic/1_wood/aspen_log",
+		"moss_side": "conquest:block/9_organic/1_wood/mossy_aspen_log_moss"
+	}
+}

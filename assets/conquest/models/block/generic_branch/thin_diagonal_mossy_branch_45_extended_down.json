@@ -1,0 +1,6 @@
+{
+	"parent": "conquest:block/generic_branch/template/thin_diagonal_branch_45_extended_down",
+	"textures": {
+		"log": "conquest:block/9_organic/3_plants/mossy_branch_moss"
+	}
+}

@@ -1,0 +1,48 @@
+# Made in Blockbench 4.12.4
+newmtl m_fe110ba3-3676-7313-1d57-b78d2df4da3a
+Ns 0.000000
+Ka 0.0 0.0 0.0
+Kd 0.800000 0.800000 0.800000
+Ks 1.0 1.0 1.0
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 0
+map_Kd #branches1
+forge_TintIndex -1
+
+newmtl m_2be74f75-85c4-b993-39ca-d6810567b9b6
+Ns 0.000000
+Ka 0.0 0.0 0.0
+Kd 0.800000 0.800000 0.800000
+Ks 1.0 1.0 1.0
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 0
+map_Kd #branches2
+forge_TintIndex -1
+
+newmtl m_fe110ba3-3676-7313-1d57-b78d2df4da3a_moss
+Ns 0.000000
+Ka 0.0 0.0 0.0
+Kd 0.800000 0.800000 0.800000
+Ks 1.0 1.0 1.0
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 0
+map_Kd #branches1_moss
+forge_TintIndex 0
+
+newmtl m_2be74f75-85c4-b993-39ca-d6810567b9b6_moss
+Ns 0.000000
+Ka 0.0 0.0 0.0
+Kd 0.800000 0.800000 0.800000
+Ks 1.0 1.0 1.0
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 0
+map_Kd #branches2_moss
+forge_TintIndex 0

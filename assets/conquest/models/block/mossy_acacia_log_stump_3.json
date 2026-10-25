@@ -1,0 +1,7 @@
+{
+	"parent": "conquest:block/templates/mossy/parent_stump_3",
+	"textures": {
+		"side": "minecraft:block/acacia_log",
+		"moss_side": "conquest:block/9_organic/1_wood/mossy_acacia_log_moss"
+	}
+}

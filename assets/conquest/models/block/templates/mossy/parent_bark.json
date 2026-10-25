@@ -1,0 +1,92 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"side": "block/acacia_planks",
+		"particle": "#side",
+		"moss_end": "#moss_side"
+	},
+	"elements": [
+		{
+			"from": [
+				0,
+				0,
+				0
+			],
+			"to": [
+				16,
+				16,
+				16
+			],
+			"faces": {
+				"down": {
+					"texture": "#side",
+					"cullface": "down"
+				},
+				"up": {
+					"texture": "#side",
+					"cullface": "up"
+				},
+				"north": {
+					"texture": "#side",
+					"cullface": "north"
+				},
+				"south": {
+					"texture": "#side",
+					"cullface": "south"
+				},
+				"west": {
+					"texture": "#side",
+					"cullface": "west"
+				},
+				"east": {
+					"texture": "#side",
+					"cullface": "east"
+				}
+			}
+		},
+		{
+			"from": [
+				0,
+				0,
+				0
+			],
+			"to": [
+				16,
+				16,
+				16
+			],
+			"faces": {
+				"down": {
+					"texture": "#moss_side",
+					"cullface": "down",
+					"tintindex": 0
+				},
+				"up": {
+					"texture": "#moss_side",
+					"cullface": "up",
+					"tintindex": 0
+				},
+				"north": {
+					"texture": "#moss_side",
+					"cullface": "north",
+					"tintindex": 0
+				},
+				"south": {
+					"texture": "#moss_side",
+					"cullface": "south",
+					"tintindex": 0
+				},
+				"west": {
+					"texture": "#moss_side",
+					"cullface": "west",
+					"tintindex": 0
+				},
+				"east": {
+					"texture": "#moss_side",
+					"cullface": "east",
+					"tintindex": 0
+				}
+			}
+		}
+	]
+}

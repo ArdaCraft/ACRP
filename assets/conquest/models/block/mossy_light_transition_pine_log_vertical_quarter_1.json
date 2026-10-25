@@ -1,0 +1,7 @@
+{
+	"parent": "conquest:block/templates/mossy/parent_vertical_quarter_1",
+	"textures": {
+		"side": "conquest:block/9_organic/1_wood/light_transition_pine_log",
+		"moss_side": "conquest:block/9_organic/1_wood/mossy_light_transition_pine_log_moss"
+	}
+}

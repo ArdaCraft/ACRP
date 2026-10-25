@@ -1,0 +1,7 @@
+{
+	"parent": "conquest:block/templates/mossy/parent_slab_eighth_top",
+	"textures": {
+		"side": "conquest:block/9_organic/1_wood/ash_log",
+		"moss_side": "conquest:block/9_organic/1_wood/mossy_ash_log_moss"
+	}
+}

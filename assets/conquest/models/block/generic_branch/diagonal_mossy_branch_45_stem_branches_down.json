@@ -1,0 +1,12 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "conquest:models/obj/generic_branch/branch_45_stem_branches_down.obj",
+	"ambientToFullbright": true,
+	"flip-v": true,
+	"textures": {
+		"particle": "conquest:block/9_organic/3_plants/mossy_branch_moss",
+		"1": "conquest:block/9_organic/3_plants/mossy_branch_moss",
+		"2": "conquest:block/air",
+		"3": "conquest:block/air"
+	}
+}

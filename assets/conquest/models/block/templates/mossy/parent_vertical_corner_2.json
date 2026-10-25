@@ -1,0 +1,172 @@
+{
+	"parent": "block/block",
+	"display": {
+		"gui": {
+			"rotation": [
+				30,
+				135,
+				0
+			],
+			"translation": [
+				0,
+				-0.5,
+				0
+			],
+			"scale": [
+				0.625,
+				0.625,
+				0.625
+			]
+		}
+	},
+	"textures": {
+		"top": "#side",
+		"bottom": "#side",
+		"particle": "#side",
+		"moss_end": "#moss_side"
+	},
+	"elements": [
+		{
+			"from": [
+				0,
+				0,
+				12
+			],
+			"to": [
+				16,
+				16,
+				16
+			],
+			"faces": {
+				"north": {
+					"texture": "#side"
+				},
+				"south": {
+					"texture": "#side",
+					"cullface": "south"
+				},
+				"west": {
+					"texture": "#side",
+					"cullface": "west"
+				},
+				"up": {
+					"texture": "#top",
+					"cullface": "up"
+				},
+				"down": {
+					"texture": "#bottom",
+					"cullface": "down"
+				}
+			}
+		},
+		{
+			"from": [
+				12,
+				0,
+				0
+			],
+			"to": [
+				16,
+				16,
+				16
+			],
+			"faces": {
+				"north": {
+					"texture": "#side",
+					"cullface": "north"
+				},
+				"east": {
+					"texture": "#side",
+					"cullface": "east"
+				},
+				"west": {
+					"texture": "#side"
+				},
+				"up": {
+					"texture": "#top",
+					"cullface": "up"
+				},
+				"down": {
+					"texture": "#bottom",
+					"cullface": "down"
+				}
+			}
+		},
+		{
+			"from": [
+				0,
+				0,
+				12
+			],
+			"to": [
+				16,
+				16,
+				16
+			],
+			"faces": {
+				"north": {
+					"texture": "#moss_side",
+					"tintindex": 0
+				},
+				"south": {
+					"texture": "#moss_side",
+					"cullface": "south",
+					"tintindex": 0
+				},
+				"west": {
+					"texture": "#moss_side",
+					"cullface": "west",
+					"tintindex": 0
+				},
+				"up": {
+					"texture": "#moss_side",
+					"cullface": "up",
+					"tintindex": 0
+				},
+				"down": {
+					"texture": "#moss_side",
+					"cullface": "down",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"from": [
+				12,
+				0,
+				0
+			],
+			"to": [
+				16,
+				16,
+				16
+			],
+			"faces": {
+				"north": {
+					"texture": "#moss_side",
+					"cullface": "north",
+					"tintindex": 0
+				},
+				"east": {
+					"texture": "#moss_side",
+					"cullface": "east",
+					"tintindex": 0
+				},
+				"west": {
+					"texture": "#moss_side",
+					"tintindex": 0
+				},
+				"up": {
+					"texture": "#moss_side",
+					"cullface": "up",
+					"tintindex": 0
+				},
+				"down": {
+					"texture": "#moss_side",
+					"cullface": "down",
+					"tintindex": 0
+				}
+			}
+		}
+	]
+}

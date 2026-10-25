@@ -1,0 +1,7 @@
+{
+	"parent": "conquest:block/templates/mossy/parent_stump_6",
+	"textures": {
+		"side": "minecraft:block/oak_log",
+		"moss_side": "conquest:block/9_organic/1_wood/mossy_oak_log_moss"
+	}
+}

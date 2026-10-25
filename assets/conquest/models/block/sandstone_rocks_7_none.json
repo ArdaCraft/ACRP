@@ -1,0 +1,9 @@
+{
+	"parent": "conquest:block/templates/parent_mixed_rocks_7_none",
+	"textures": {
+		"particle": "conquest:block/8_topography/1_stone/faded_tan_sandstone",
+		"0": "conquest:block/8_topography/1_stone/faded_tan_sandstone",
+		"1": "conquest:block/8_topography/1_stone/faded_orange_sandstone",
+		"2": "conquest:block/8_topography/1_stone/faded_orange_sandstone"
+	}
+}
