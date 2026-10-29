@@ -1,0 +1,87 @@
+{
+ "parent": "block/block",
+ "textures": {
+  "side": "block/acacia_planks",
+  "top": "#side",
+  "bottom": "#side",
+  "particle": "#side"
+ },
+ "elements": [
+  {
+   "from": [
+    4,
+    0,
+    4
+   ],
+   "to": [
+    12,
+    16,
+    12
+   ],
+   "faces": {
+    "down": {
+     "texture": "#bottom",
+     "cullface": "down"
+    },
+    "up": {
+     "texture": "#top",
+     "cullface": "up"
+    },
+    "north": {
+     "texture": "#side"
+    },
+    "south": {
+     "texture": "#side"
+    },
+    "west": {
+     "texture": "#side"
+    },
+    "east": {
+     "texture": "#side"
+    }
+   },
+   "__comment": "Center post"
+  },
+  {
+   "from": [
+    4,
+    0,
+    4
+   ],
+   "to": [
+    12,
+    16,
+    12
+   ],
+   "faces": {
+    "down": {
+     "cullface": "down",
+     "texture": "#overlay",
+     "tintindex": 1
+    },
+    "up": {
+     "cullface": "up",
+     "texture": "#overlay",
+     "tintindex": 1
+    },
+    "north": {
+     "texture": "#overlay",
+     "tintindex": 1
+    },
+    "south": {
+     "texture": "#overlay",
+     "tintindex": 1
+    },
+    "west": {
+     "texture": "#overlay",
+     "tintindex": 1
+    },
+    "east": {
+     "texture": "#overlay",
+     "tintindex": 1
+    }
+   },
+   "__comment": "Center post"
+  }
+ ]
+}

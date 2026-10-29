@@ -1,0 +1,7 @@
+{
+ "parent": "conquest:block/templates/overlay_acrp/parent_balustrade",
+ "textures": {
+  "side": "conquest:block/1_basic_refined/1_stone/mossy_dark_brown_mortar_cobbles",
+  "overlay": "conquest:block/1_basic_refined/1_stone/mossy_dark_brown_mortar_cobbles_moss"
+ }
+}

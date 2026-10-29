@@ -106,3 +106,20 @@ Issues currently include inaccurate items, inaccurate block sounds, and inaccura
 * Pine, dead pine needle tops: random height drop
 * Hanging herbs: 4 arrangements (was 2)
 * Moss overlay: new random tiles
+
+#### Biome-coloured moss on stone, brown moss, ground cleanup, birch
+
+**More biome splitting**
+
+* Mossy, overgrown and muddy gray flagstones, mossy and muddy light gray flagstones
+* Mossy, overgrown and heavily overgrown dark brown mortar cobbles
+* Brown moss: own biome colormap (stays browner than grass but follows it - same uses with less harshnes)
+
+More Birch fixes (please i pray lets get rid of the full block ones soon....)
+
+* Birch leaves color tweaks more, will change once proper schems are built but WM is less scuffed n ow
+
+**Cleanup**
+
+* Coarse chalky soil, chalky soil, chalky brown gravel, gravel: green sprouts and patches removed
+* Coarse chalky soil, coarse sandy soil: pebbles outed

@@ -1,0 +1,7 @@
+{
+ "parent": "conquest:block/templates/overlay/parent_slab_quarter_6",
+ "textures": {
+  "side": "conquest:block/1_basic_refined/1_stone/muddy_gray_flagstones",
+  "overlay": "conquest:block/1_basic_refined/1_stone/muddy_gray_flagstones_moss"
+ }
+}

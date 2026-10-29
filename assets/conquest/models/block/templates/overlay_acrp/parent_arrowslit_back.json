@@ -1,0 +1,14 @@
+{
+ "parent": "block/block",
+ "loader": "porting_lib:obj",
+ "model": "conquest:models/obj/arrowslit_back_moss.obj",
+ "emissive_ambient": true,
+ "flip_v": true,
+ "textures": {
+  "particle": "#side",
+  "side": "#side",
+  "top": "#side",
+  "bottom": "#side",
+  "overlay": "#overlay"
+ }
+}
