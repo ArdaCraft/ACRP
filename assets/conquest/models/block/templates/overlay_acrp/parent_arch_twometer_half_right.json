@@ -1,8 +1,10 @@
 {
  "parent": "block/block",
  "textures": {
-  "side": "block/acacia_planks",
-  "particle": "#side"
+  "0": "#side",
+  "1": "#side",
+  "particle": "#side",
+  "side": "block/acacia_planks"
  },
  "elements": [
   {
