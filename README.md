@@ -77,6 +77,7 @@ Issues currently include inaccurate items, inaccurate block sounds, and inaccura
 
 * Cherry leaves and branches, ash twigs, tall grass value range tweaks
 
+
 #### Mossy logs, mossy branches, leaves and plants
 
 **Mossy logs / branches**
@@ -123,3 +124,7 @@ More Birch fixes (please i pray lets get rid of the full block ones soon....)
 
 * Coarse chalky soil, chalky soil, chalky brown gravel, gravel: green sprouts and patches removed
 * Coarse chalky soil, coarse sandy soil: pebbles outed
+
+
+### Inventory Item Texture Fixes
+* Inventory Item Texture of Larch Wood Plank Boards fixed
