@@ -126,5 +126,9 @@ More Birch fixes (please i pray lets get rid of the full block ones soon....)
 * Coarse chalky soil, coarse sandy soil: pebbles outed
 
 
-### Inventory Item Texture Fixes
+#### Inventory Item Texture Fixes
 * Inventory Item Texture of Larch Wood Plank Boards fixed
+
+
+#### Paintbrush Filter
+* Added Full Paintbrush Filter File with Updated List
