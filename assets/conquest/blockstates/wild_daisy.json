@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "conquest:block/wild_daisy_8", "yoffset": 2.5 }
+    }
+}

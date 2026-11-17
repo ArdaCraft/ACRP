@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "": [
+            {"model": "conquest:block/pine_ground_needles_bushtex", "x": 0, "y": -4.6, "z": 5, "yoffset": -3},
+            {"model": "conquest:block/pine_ground_needles_bushtex", "x": 0, "y": 182.1, "z": 5, "yoffset": -3},
+            {"model": "conquest:block/pine_ground_needles_bushtex", "x": 40, "y": -21.9, "z": 10, "yoffset": -3},
+            {"model": "conquest:block/pine_ground_needles_bushtex", "x": 40, "y": 123.8, "z": 10, "yoffset": -3},
+            {"model": "conquest:block/pine_ground_needles_bushtex", "x": -115, "y": 26.3, "z": -70, "yoffset": -3},
+            {"model": "conquest:block/pine_ground_needles_bushtex", "x": -115, "y": 196.5, "z": -70, "yoffset": -3},
+            {"model": "conquest:block/pine_ground_needles_bushtex", "x": 20, "y": 45.8, "z": -10, "yoffset": -3},
+            {"model": "conquest:block/pine_ground_needles_bushtex", "x": 20, "y": 220.4, "z": -10, "yoffset": -3},
+            {"model": "conquest:block/pine_ground_needles_bushtex", "x": -135, "y": 22.8, "z": -45, "yoffset": -3},
+            {"model": "conquest:block/pine_ground_needles_bushtex", "x": -135, "y": 220.7, "z": -45, "yoffset": -3}
+        ]
+    }
+}
