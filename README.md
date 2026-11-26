@@ -31,3 +31,14 @@
 #### Grasses
 
 * Small fescue: 1 in 7 have untinted seed tips, like meadow fescue
+
+#### Dooryard dock
+
+* Rebuilt seed heads
+* New layouts on the random states
+* Base has biome tint
+
+#### Willow
+
+* White willow darkened/mixed into white/black poplar color space better
+* Drooping white willow: fixed random tile 3 and the bottom texture, which were lighter and yellower than the rest

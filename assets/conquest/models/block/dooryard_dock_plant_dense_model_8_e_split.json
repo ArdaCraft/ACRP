@@ -1,0 +1,444 @@
+{
+ "ambientocclusion": false,
+ "textures": {
+  "texture": "conquest:block/9_organic/3_plants/dooryard_dock_b_split",
+  "mid_head": "conquest:block/9_organic/3_plants/dooryard_dock_b_mid_head",
+  "texture_head": "conquest:block/9_organic/3_plants/dooryard_dock_b_head",
+  "texture2": "conquest:block/9_organic/3_plants/dooryard_dock_c_split",
+  "mid_head2": "conquest:block/9_organic/3_plants/dooryard_dock_c_mid_head",
+  "texture_head2": "conquest:block/9_organic/3_plants/dooryard_dock_c_head",
+  "particle": "conquest:block/9_organic/3_plants/dooryard_dock"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    16.4999
+   ],
+   "to": [
+    16,
+    16,
+    16.5009
+   ],
+   "shade": false,
+   "rotation": {
+    "origin": [
+     16,
+     0,
+     16.5
+    ],
+    "axis": "y",
+    "angle": -45
+   },
+   "faces": {
+    "north": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#texture",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#texture",
+     "tintindex": 0
+    }
+   }
+  },
+  {
+   "from": [
+    0,
+    0,
+    16.4999
+   ],
+   "to": [
+    16,
+    16,
+    16.5009
+   ],
+   "shade": false,
+   "rotation": {
+    "origin": [
+     16,
+     0,
+     16.5
+    ],
+    "axis": "y",
+    "angle": -45
+   },
+   "faces": {
+    "north": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#mid_head"
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#mid_head"
+    }
+   }
+  },
+  {
+   "from": [
+    7.9991,
+    0,
+    3.5
+   ],
+   "to": [
+    8.000099,
+    16,
+    19.5
+   ],
+   "shade": false,
+   "rotation": {
+    "origin": [
+     8,
+     0,
+     19.5
+    ],
+    "axis": "y",
+    "angle": -22.5
+   },
+   "faces": {
+    "west": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#texture",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#texture",
+     "tintindex": 0
+    }
+   }
+  },
+  {
+   "from": [
+    7.9991,
+    0,
+    3.5
+   ],
+   "to": [
+    8.000099,
+    16,
+    19.5
+   ],
+   "shade": false,
+   "rotation": {
+    "origin": [
+     8,
+     0,
+     19.5
+    ],
+    "axis": "y",
+    "angle": -22.5
+   },
+   "faces": {
+    "west": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#texture_head"
+    },
+    "east": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#texture_head"
+    }
+   }
+  },
+  {
+   "from": [
+    1,
+    0,
+    8.9999
+   ],
+   "to": [
+    17,
+    16,
+    9.0009
+   ],
+   "shade": false,
+   "rotation": {
+    "origin": [
+     17,
+     0,
+     9
+    ],
+    "axis": "y",
+    "angle": 22.5
+   },
+   "faces": {
+    "north": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#texture",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#texture",
+     "tintindex": 0
+    }
+   }
+  },
+  {
+   "from": [
+    1,
+    0,
+    8.9999
+   ],
+   "to": [
+    17,
+    16,
+    9.0009
+   ],
+   "shade": false,
+   "rotation": {
+    "origin": [
+     17,
+     0,
+     9
+    ],
+    "axis": "y",
+    "angle": 22.5
+   },
+   "faces": {
+    "north": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#texture_head"
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#texture_head"
+    }
+   }
+  },
+  {
+   "from": [
+    14.13421413329542,
+    0,
+    0.5877419459576707
+   ],
+   "to": [
+    14.13521413329542,
+    16,
+    16.58774194595767
+   ],
+   "shade": false,
+   "rotation": {
+    "origin": [
+     14.13421413329542,
+     0,
+     0.5877419459576707
+    ],
+    "axis": "y",
+    "angle": -45
+   },
+   "faces": {
+    "west": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#texture2",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#texture2",
+     "tintindex": 0
+    }
+   }
+  },
+  {
+   "from": [
+    14.13421413329542,
+    0,
+    0.5877419459576707
+   ],
+   "to": [
+    14.13521413329542,
+    16,
+    16.58774194595767
+   ],
+   "shade": false,
+   "rotation": {
+    "origin": [
+     14.13421413329542,
+     0,
+     0.5877419459576707
+    ],
+    "axis": "y",
+    "angle": -45
+   },
+   "faces": {
+    "west": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#mid_head2"
+    },
+    "east": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#mid_head2"
+    }
+   }
+  },
+  {
+   "from": [
+    15.133214133295418,
+    0,
+    -4.912258054042329
+   ],
+   "to": [
+    15.13421413329542,
+    16,
+    11.08774194595767
+   ],
+   "shade": false,
+   "rotation": {
+    "origin": [
+     15.13421413329542,
+     0,
+     11.08774194595767
+    ],
+    "axis": "y",
+    "angle": 45
+   },
+   "faces": {
+    "west": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#texture2",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#texture2",
+     "tintindex": 0
+    }
+   }
+  },
+  {
+   "from": [
+    15.133214133295418,
+    0,
+    -4.912258054042329
+   ],
+   "to": [
+    15.13421413329542,
+    16,
+    11.08774194595767
+   ],
+   "shade": false,
+   "rotation": {
+    "origin": [
+     15.13421413329542,
+     0,
+     11.08774194595767
+    ],
+    "axis": "y",
+    "angle": 45
+   },
+   "faces": {
+    "west": {
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ],
+     "texture": "#texture_head2"
+    },
+    "east": {
+     "uv": [
+      16,
+      0,
+      0,
+      16
+     ],
+     "texture": "#texture_head2"
+    }
+   }
+  }
+ ]
+}
